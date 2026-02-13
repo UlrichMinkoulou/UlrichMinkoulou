@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-- 🔭Je travaille actuelle sur le developpement d'une application de cluster de ESP32 || FPGA en C++. Je code d'abord en console et apres je vais developper une version avec Qt C++<br>- 🌱Je cherche egalement des collaborations sur des projets de developpement de systemes embarques, C++, acceleration materiel sur FPGA, logiciel embarques...<br>- 🤔Tout aide sera utile
+- 🔭Je travaille actuellement sur le developpement d'une application de cluster de ESP32 || FPGA en C++. Je code d'abord en console et apres je vais developper une version avec Qt C++<br>- 🌱Je cherche egalement des collaborations sur des projets de developpement de systemes embarques, C++, acceleration materiel sur FPGA, logiciel embarques...<br>- 🤔Tout aide sera utile
 
 
 ## 🌐 Socials:
