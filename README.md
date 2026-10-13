@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-- 🔭Je travaille actuellement sur le developpement d'une application de cluster de ESP32 || FPGA en C++. Je code d'abord en console et apres je vais developper une version avec Qt C++<br>- 🌱Je cherche egalement des collaborations sur des projets de developpement de systemes embarques, C++, acceleration materiel sur FPGA, logiciel embarques...<br>- 🤔Tout aide sera utile
+• 🔭 I am a high-performance embedded systems researcher at the REDS (Reconfigurable and Embedded Digital Systems) institute. I am currently working on developing hybrid cryptographic algorithms (ECC + Post-Quantum) on FPGAs to secure satellite communications.
 
 
 ## 🌐 Socials:
